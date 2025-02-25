@@ -10,3 +10,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/AndresRugeles/AndresRugeles)
 
 
+### :zap: Actividad reciente
+<!-- START_SECTION:activity -->
+
+<!-- END_SECTION:activity -->
